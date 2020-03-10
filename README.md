@@ -1,15 +1,14 @@
-# Vanessa Automation
+# Автозапуск Vanessa Automation
 Выполнить последовательность шагов:
 
 ## Установка
-1) git clone https://github.com/Pr-Mex/vanessa-automation.git
+git clone https://github.com/Pr-Mex/vanessa-automation.git
 
 ## Компиляция
-1) Через oscript (предварительно установить по ссылке: http://oscript.io/docs/page/install)
+Через oscript (предварительно установить по ссылке: http://oscript.io/docs/page/install)
 
 Если Vanessa_Dir = "C:\Users\Администратор\vanessa-automation",
-тогда 
- 
+тогда  
 %Vanessa_Dir%>oscript .\tools\onescript\Compile.os .\
 
 ИЛИ выполнить скрипт: 
@@ -27,6 +26,3 @@
 Дымовое тестирование
 
 ## Автоформирование видеоинструкций
-
-
-*Загрузить feature-файлы
