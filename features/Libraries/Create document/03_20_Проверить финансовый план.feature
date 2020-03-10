@@ -1,0 +1,1 @@
+"C:\Users\Администратор\Documents\InfoBase" /Execute c:\Users\Администратор\vanessa-automation\vanessa-automation.epf /TESTMANAGER /C"StartFeaturePlayer;VBParams=C:\VBParams.json"
